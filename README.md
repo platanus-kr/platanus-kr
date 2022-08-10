@@ -1,4 +1,8 @@
 ## 👋 MINCHEOL KANG, 강민철
+
+<img align='right' src="https://media.giphy.com/media/l5VXVpoyXFBZvyeWXl/giphy.gif" width="230">
+
+
 - E-Commerce Java Software Engineer
 - 42 Seoul Cadet
 - Korea National Open University
