@@ -1,14 +1,4 @@
--
-
-
-아
-
-```
-기본적으로 이렇게 됨
-```
-
-이건 `이런식` 으로.
-
----
-
-hr라인?
+## 👋 MINCHEOL KANG, 강민철
+:radio_button: E-Commerce Java Software Engineer<br />
+:radio_button: 42 Seoul Cadet<br />
+:radio_button: Korea National Open University<br />
