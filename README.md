@@ -1,12 +1,13 @@
-## 안녕하세요 👋 자바 소프트웨어 엔지니어 강민철 입니다.
+## 안녕하세요 👋 [강민철](https://platanus.me) 입니다.
 
-<img align='right' src="https://media.giphy.com/media/l5VXVpoyXFBZvyeWXl/giphy.gif" width="230">
+<img align="right" style="margin-left: 100px" src="https://media.giphy.com/media/l5VXVpoyXFBZvyeWXl/giphy.gif" width="200" />
 
-### 반갑습니다
+만나서 반갑습니다. 저는 한국방송통신대학교에서 컴퓨터과학을 전공하고 42 Seoul 본과정을 거쳤습니다. 2021년 부터는 반려동물 커머스에서 개발자로 근무하고 있습니다. 주로 Java와 Spring Framework 생태계를 누비고 있습니다. 과거 시스템 엔지니어 경험이 있어 Linux를 좋아하고 SRE 분야도 관심이 많습니다. 사진을 좋아하고 찍으러 많이 다닙니다
 
-- :coffee: E-Commerce Java Software Engineer 현) 반려동물 커머스 자바 개발자
-- :surfer: 42 Seoul Cadet (minkang) 42서울 4기 카뎃 
-- 🎓 Korea National Open University 한국방송통신대학 졸업
+- :office: &nbsp;I'm currently working at Pet E-Commerce in Seoul
+- :speech_balloon: &nbsp;I like to talk about Java, Spring, Linux, SRE
+- :mailbox: &nbsp;How to reach me: platanus.kr@gmail.com
+- :surfer: 42 Seoul Cadet (2021~2022)
 
 <details>	
   <summary><b>GitHub 현황</b></summary>
