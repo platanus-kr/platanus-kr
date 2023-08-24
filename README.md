@@ -1,8 +1,18 @@
-## 안녕하세요 👋 [강민철](https://platanus.me) 입니다.
+### 안녕하세요 👋 [강민철](https://platanus.me) 입니다.
 
 <img align="right" style="margin-left: 100px" src="https://media.giphy.com/media/l5VXVpoyXFBZvyeWXl/giphy.gif" width="200" />
 
+
+jhkhlkjhl
+
+- hkjl
+- hiul
+- ihlyuy
+- ;uojih;
+
+
 웹에 관심이 많은 주니어 소프트웨어 엔지니어 입니다!
+
 
 - :office: &nbsp;Work: 반려동물 커머스에서 Java Software Engineer로 2021년 부터 근무하고 있습니다.
 - :speech_balloon: &nbsp;Like: Java, Spring Framework 에 대해서 이야기하는 것을 좋아합니다.
@@ -15,15 +25,7 @@
 
 ### 주로 사용하는 것들
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+[![Project use](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,mongodb,kafka,linux,docker,gitlab,idea&theme=dark)](#)
 
 <details>	
   <summary><b>간단한 자기소개</b></summary>
