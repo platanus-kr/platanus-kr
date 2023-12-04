@@ -15,8 +15,8 @@
 > As a developer, I've been involved in the following activities.
 
 - 🧑🏻‍🏫 NextStep ATDD with Spring; 7th (2023)
-- 📚 [한빛미디어 서평단](https://platanus.me/post/category/blog/book) (2022)
-- 🎓 [42 Seoul; 4th](https://github.com/innovationacademy-kr) (2021 ~ 2022)
+- 📚 한빛미디어 서평단 (2022)
+- 🎓 42 Seoul (2021 ~ 2022)
 - 🎓 Korea National Open University graduated 2017 (Computer Science)
 
 > If you're interested in learning more about me,  
