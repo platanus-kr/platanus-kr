@@ -7,9 +7,9 @@
 #### Work experience
 
 - 🏃🏻‍♂️ Java Backend Developer
-  - Private Cloud Solution Application Developer (since 2024)
+  - Enterprise Cloud Solution Application Developer (since 2024)
   - Commerce Order Management System Application Developer (2021 ~ 2023)
-- 🧍🏻‍♂️ Hardware and System Engineer
+- 🧍🏻‍♂️ Infrastructure Hardware Engineer
   - x86 Server, SAN, HA, RHEL, NT, HA Cluster Engineer (2015 ~ 2019)
 - 🧍🏻‍♂️ Web Hosting Chief
   - LAPM Engineer and Management (2003 ~ 2019)
@@ -29,7 +29,13 @@
 
 #### Contacts
 
-- <a href="#" style="color:black; text-decoration:none;"><img src="https://simpleicons.org/icons/linkedin.svg" width="16px" style="vertical-align: middle;"/> LinkedIn profile</a>
-- <a href="#" style="color:black; text-decoration:none;"><img src="https://simpleicons.org/icons/wordpress.svg" width="16px" style="vertical-align: middle"/> Development blog</a>
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kangmincheol/)](https://www.linkedin.com/in/kangmincheol/)
+- [![Development Blog Badge](https://img.shields.io/badge/-Development%20Blog-grey?style=flat-square&logo=WordPress&logoColor=white&link=https://platanus.me/)](https://platanus.me/)
+
+#### Specialist certifications
+
+- RedHat RHEL (2019)
+- Microsoft MCP (2017)
+- 한국산업인력공단 정보처리기사 (2017)
 
 <a href="#"><img src="https://img.shields.io/badge/Hit_1/123-333333?logoColor=white"></a>
