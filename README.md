@@ -19,8 +19,10 @@
 
 #### Activities and education
 
+- 📍 [Web Chat service project by Spring Reactive WebSocket](https://github.com/platanus-kr/plata-anywhere-chat) (2023)
+- 📍 [Co-worker matching service project in 42 Seoul](https://github.com/innovationacademy-kr/swlabs-helper) (2021)
+- 📍 한빛미디어 서평단 (2022)
 - 🧑🏻‍🏫 NextStep ATDD with Spring (2023)
-- 📚 한빛미디어 서평단 (2022)
 - 🎓 42 Seoul (2021 ~ 2022)
 - 🎓 Korea National Open University graduated 2017 (Computer Science)
 
@@ -34,7 +36,7 @@
 
 #### Specialist certifications
 
-- RedHat RHEL (2019)
+- RedHat RHCSA (2019)
 - Microsoft MCP (2017)
 - 한국산업인력공단 정보처리기사 (2017)
 
