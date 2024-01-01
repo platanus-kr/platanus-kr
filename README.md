@@ -7,7 +7,7 @@
 #### Work experience
 
 - 🏃🏻‍♂️ Java Backend Developer
-  - Enterprise Cloud Solution Application Developer (since 2024)
+  <!--- Enterprise Cloud Solution Application Developer (since 2024)-->
   - Commerce Order Management System Application Developer (2021 ~ 2023)
 - 🧍🏻‍♂️ Infrastructure Hardware Engineer
   - x86 Server, SAN, HA, RHEL, NT, HA Cluster Engineer (2015 ~ 2019)
@@ -42,4 +42,4 @@
 - more Korea national certifications and vendor certifications...  
   Linux, Network, Server Hardware, SAN Storage Hardware
 
-<a href="#"><img src="https://img.shields.io/badge/Hit_1/123-333333?logoColor=white"></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplatanus-kr%2Fprofile&count_bg=%234C4C4C&title_bg=%23101010&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
